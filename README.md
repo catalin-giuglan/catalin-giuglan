@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 I'm Catalin Giuglan, 3rd year student at Faculty of Automatic Control and Computer Science UPB.
 
 - 🔭 I’m currently working on [current project or job]
